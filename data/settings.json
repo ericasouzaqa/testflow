@@ -1,0 +1,6 @@
+{
+  "continueOnFailure": true,
+  "requestDelayMs": 0,
+  "timeoutMs": 15000,
+  "authConfig": null
+}
