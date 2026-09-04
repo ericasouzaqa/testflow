@@ -23,7 +23,7 @@ jobs:
       - name: Instalar dependências
         run: npm ci
       - name: Gerar instaladores
-        run: npm run build
+        run: npm run build -- --publish never
       - name: Publicar executáveis
         uses: softprops/action-gh-release@v2
         with:
