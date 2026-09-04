@@ -61,6 +61,12 @@
     "directories": {
       "output": "release"
     },
+    "linux": {
+      "target": [
+        "AppImage"
+      ],
+      "category": "Utility"
+    },
     "publish": []
   }
 }
