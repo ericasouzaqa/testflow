@@ -30,5 +30,3 @@ jobs:
           generate_release_notes: true
           files: |
             release/*.AppImage
-            release/*.deb
-            release/*.snap
